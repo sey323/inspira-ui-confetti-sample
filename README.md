@@ -1,4 +1,4 @@
-# Isnpira UI sample
+# Inspira UI sample
 
 This is a sample of the Inspira UI library. It is a simple library that provides a set of components to build a user interface.
 
