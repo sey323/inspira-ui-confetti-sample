@@ -4,6 +4,10 @@ This is a sample of the Inspira UI library. It is a simple library that provides
 
 https://github.com/unovue/inspira-ui
 
+Confetti is displayed as follows.
+
+![confetti](docs/confetti.gif)
+
 ## Quick start
 
 install dependencies
